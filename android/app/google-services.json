@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171957344654",
+    "firebase_url": "https://poshaco-e60f4.firebaseio.com",
+    "project_id": "poshaco-e60f4",
+    "storage_bucket": "poshaco-e60f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171957344654:android:905622acb2b10e20e9ecdf",
+        "android_client_info": {
+          "package_name": "com.poshacoappmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171957344654-kau7iduksnqsfceoe72h2qe6khg4dibr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBll65ppfaAHDTSQLhJO27q3Ja1q-cena8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171957344654-kau7iduksnqsfceoe72h2qe6khg4dibr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171957344654-2q29h1vsqi46tr1c44lbmh4rlt4s05n6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.PoshacoAppMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
